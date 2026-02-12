@@ -1,0 +1,41 @@
+import { 
+  LayoutDashboard, 
+  UtensilsCrossed, 
+  Trash2, 
+  Users, 
+  Settings, 
+  TrendingUp, 
+  Plus, 
+  Search, 
+  Bell, 
+  LogOut, 
+  CheckCircle, 
+  Clock, 
+  XCircle,
+  X,
+  MessageCircle,
+  Star,
+  DollarSign,
+  ChefHat
+} from 'lucide-react';
+
+export const Icons = {
+  Dashboard: LayoutDashboard,
+  Menu: UtensilsCrossed,
+  Waste: Trash2,
+  Customers: Users,
+  Settings: Settings,
+  Trending: TrendingUp,
+  Plus: Plus,
+  Search: Search,
+  Bell: Bell,
+  Logout: LogOut,
+  Check: CheckCircle,
+  Clock: Clock,
+  X: XCircle,
+  Close: X,
+  WhatsApp: MessageCircle,
+  Star: Star,
+  Dollar: DollarSign,
+  Chef: ChefHat
+};
